@@ -1,7 +1,7 @@
 # 💫About Me :
 I have been coding Python for over 3 years. \
 I'm currently Computer Science student. \
-I'm curious about Data Science, Machine Learning, Algorithms and Graphical Programming \
+I'm curious about Data Science, Machine Learning, Algorithms and Graphical Programming
 
 
 ## 🌐Socials
