@@ -1,6 +1,5 @@
 # 💫About Me :
-I have been coding Python for over 3 years. I'm currently Computer Science student. \
-I'm curious about Data Science, Machine Learning, Algorithms and Graphical Programming \
+For the last 4 years, I have had the opportunity to work with all major libraries in Python. I have worked with API development, scraped various websites, developed many bots and manipulate data. I support on many startups, personal projects. I enjoy my work and desire to support people with my coding skill.\
 I'm pretty boring.
 
 
